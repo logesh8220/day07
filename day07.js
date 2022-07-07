@@ -24,7 +24,7 @@ uberPrice.price();
 
 
 
-
+//Person Class
 
 class person {
     constructor(Name,age,phoneNo,area,street,pin){
