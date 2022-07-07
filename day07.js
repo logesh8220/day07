@@ -1,7 +1,7 @@
 
 
 
-//Uber Price Caliculation
+//Uber Price Calculation
 
 class uber {
     constructor(distance,bookingfees){
